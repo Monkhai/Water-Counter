@@ -1,0 +1,738 @@
+[31merror[39m: uncaughtException: reuqire is not defined
+ReferenceError: reuqire is not defined
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/index.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+ReferenceError: reuqire is not defined
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/index.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[31merror[39m: uncaughtException: reuqire is not defined
+ReferenceError: reuqire is not defined
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/index.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+ReferenceError: reuqire is not defined
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/index.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[31merror[39m: uncaughtException: reuqire is not defined
+ReferenceError: reuqire is not defined
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/index.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+ReferenceError: reuqire is not defined
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/index.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[31merror[39m: uncaughtException: reuqire is not defined
+ReferenceError: reuqire is not defined
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/index.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+ReferenceError: reuqire is not defined
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/index.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[31merror[39m: uncaughtException: reuqire is not defined
+ReferenceError: reuqire is not defined
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/index.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+ReferenceError: reuqire is not defined
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/index.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[31merror[39m: uncaughtException: reuqire is not defined
+ReferenceError: reuqire is not defined
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/index.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+ReferenceError: reuqire is not defined
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/index.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[31merror[39m: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1740:16)
+    at listenInCluster (node:net:1788:12)
+    at Server.listen (node:net:1876:7)
+    at Function.listen (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/index.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1740:16)
+    at listenInCluster (node:net:1788:12)
+    at Server.listen (node:net:1876:7)
+    at Function.listen (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/index.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[31merror[39m: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1740:16)
+    at listenInCluster (node:net:1788:12)
+    at Server.listen (node:net:1876:7)
+    at Function.listen (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/index.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1740:16)
+    at listenInCluster (node:net:1788:12)
+    at Server.listen (node:net:1876:7)
+    at Function.listen (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/index.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[31merror[39m: uncaughtException: logController is not defined
+ReferenceError: logController is not defined
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/logsRoutes.js:4:23)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js:4:14)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+ReferenceError: logController is not defined
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/logsRoutes.js:4:23)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js:4:14)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[31merror[39m: uncaughtException: Cannot read properties of undefined (reading 'push')
+TypeError: Cannot read properties of undefined (reading 'push')
+    at Function.route (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:513:14)
+    at proto.<computed> [as post] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:520:22)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/logsRoutes.js:5:8)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js:4:14)
+TypeError: Cannot read properties of undefined (reading 'push')
+    at Function.route (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:513:14)
+    at proto.<computed> [as post] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:520:22)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/logsRoutes.js:5:8)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js:4:14)
+[31merror[39m: uncaughtException: Cannot read properties of undefined (reading 'push')
+TypeError: Cannot read properties of undefined (reading 'push')
+    at Function.route (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:513:14)
+    at proto.<computed> [as post] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:520:22)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/logsRoutes.js:5:8)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js:4:14)
+TypeError: Cannot read properties of undefined (reading 'push')
+    at Function.route (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:513:14)
+    at proto.<computed> [as post] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:520:22)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/logsRoutes.js:5:8)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js:4:14)
+[31merror[39m: uncaughtException: Cannot read properties of undefined (reading 'push')
+TypeError: Cannot read properties of undefined (reading 'push')
+    at Function.route (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:513:14)
+    at proto.<computed> [as post] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:520:22)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/logsRoutes.js:5:8)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js:4:14)
+TypeError: Cannot read properties of undefined (reading 'push')
+    at Function.route (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:513:14)
+    at proto.<computed> [as post] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:520:22)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/logsRoutes.js:5:8)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js:4:14)
+[31merror[39m: uncaughtException: Cannot read properties of undefined (reading 'push')
+TypeError: Cannot read properties of undefined (reading 'push')
+    at Function.route (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:513:14)
+    at proto.<computed> [as post] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:520:22)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/logsRoutes.js:5:8)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js:4:14)
+TypeError: Cannot read properties of undefined (reading 'push')
+    at Function.route (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:513:14)
+    at proto.<computed> [as post] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:520:22)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/logsRoutes.js:5:8)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js:4:14)
+[31merror[39m: uncaughtException: Cannot read properties of undefined (reading 'push')
+TypeError: Cannot read properties of undefined (reading 'push')
+    at Function.route (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:513:14)
+    at proto.<computed> [as post] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:520:22)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/logsRoutes.js:5:8)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js:4:14)
+TypeError: Cannot read properties of undefined (reading 'push')
+    at Function.route (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:513:14)
+    at proto.<computed> [as post] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:520:22)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/logsRoutes.js:5:8)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js:4:14)
+[31merror[39m: uncaughtException: Missing initializer in const declaration
+/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/logController.js:5
+  const user_id,amount } = req.body;
+        ^^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/logsRoutes.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/logController.js:5
+  const user_id,amount } = req.body;
+        ^^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/logsRoutes.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[31merror[39m: uncaughtException: Cannot find module '../startup/configure'
+Require stack:
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/userRoutes.js
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/index.js
+Error: Cannot find module '../startup/configure'
+Require stack:
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/userRoutes.js
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+Error: Cannot find module '../startup/configure'
+Require stack:
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/userRoutes.js
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[31merror[39m: uncaughtException: Cannot find module '../startup/configure'
+Require stack:
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/userRoutes.js
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/index.js
+Error: Cannot find module '../startup/configure'
+Require stack:
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/userRoutes.js
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+Error: Cannot find module '../startup/configure'
+Require stack:
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/userRoutes.js
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[31merror[39m: uncaughtException: Cannot find module '../startup/configure'
+Require stack:
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/userRoutes.js
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/index.js
+Error: Cannot find module '../startup/configure'
+Require stack:
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/userRoutes.js
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+Error: Cannot find module '../startup/configure'
+Require stack:
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/userRoutes.js
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js
+- /Users/yohaiwiener/coding-docs/Water-Counter/backend/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[31merror[39m: uncaughtException: Route.put() requires a callback function but got a [object Undefined]
+Error: Route.put() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as put] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/route.js:211:15)
+    at proto.<computed> [as put] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/settingsRoutes.js:5:8)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js:6:18)
+Error: Route.put() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as put] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/route.js:211:15)
+    at proto.<computed> [as put] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/settingsRoutes.js:5:8)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/startup/routes.js:6:18)
+[31merror[39m: uncaughtException: Unexpected identifier
+/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:34
+      const defaultSettings = create Setting.create({user_id: defaultSettings, amount: 200},{transaction})
+                                     ^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/userRoutes.js:3:24)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:34
+      const defaultSettings = create Setting.create({user_id: defaultSettings, amount: 200},{transaction})
+                                     ^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/userRoutes.js:3:24)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[31merror[39m: uncaughtException: missing ) after argument list
+/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/settingsController.js:26
+  if (!setting) await Setting.create({ user_id, amount: 200 }
+                                                            ^
+
+SyntaxError: missing ) after argument list
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:4:29)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/settingsController.js:26
+  if (!setting) await Setting.create({ user_id, amount: 200 }
+                                                            ^
+
+SyntaxError: missing ) after argument list
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:4:29)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[31merror[39m: uncaughtException: missing ) after argument list
+/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/settingsController.js:26
+  if (!setting) { await Setting.create({ user_id, amount: 200 }}
+                                                              ^
+
+SyntaxError: missing ) after argument list
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:4:29)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/settingsController.js:26
+  if (!setting) { await Setting.create({ user_id, amount: 200 }}
+                                                              ^
+
+SyntaxError: missing ) after argument list
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:4:29)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[31merror[39m: uncaughtException: missing ) after argument list
+/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/settingsController.js:27
+    await Setting.create({ user_id, amount: 200 }
+                                                ^
+
+SyntaxError: missing ) after argument list
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:4:29)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/settingsController.js:27
+    await Setting.create({ user_id, amount: 200 }
+                                                ^
+
+SyntaxError: missing ) after argument list
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:4:29)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[31merror[39m: uncaughtException: missing ) after argument list
+/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/settingsController.js:26
+  if (!setting) { await Setting.create({ user_id, amount: 200 }}
+                                                              ^
+
+SyntaxError: missing ) after argument list
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:4:29)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/settingsController.js:26
+  if (!setting) { await Setting.create({ user_id, amount: 200 }}
+                                                              ^
+
+SyntaxError: missing ) after argument list
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:4:29)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[31merror[39m: uncaughtException: Unexpected identifier
+/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/logController.js:22
+  cosnt id = req.user.id
+        ^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/logsRoutes.js:4:23)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/logController.js:22
+  cosnt id = req.user.id
+        ^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/logsRoutes.js:4:23)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[31merror[39m: uncaughtException: Unexpected identifier
+/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/logController.js:22
+  cosnt id = req.user.id
+        ^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/logsRoutes.js:4:23)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/logController.js:22
+  cosnt id = req.user.id
+        ^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/logsRoutes.js:4:23)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[31merror[39m: uncaughtException: Unexpected identifier
+/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/logController.js:58
+    raw: true,
+    ^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/logsRoutes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/logController.js:58
+    raw: true,
+    ^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/Users/yohaiwiener/coding-docs/Water-Counter/backend/routes/logsRoutes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)

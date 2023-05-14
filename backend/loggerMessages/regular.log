@@ -1,0 +1,1564 @@
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Unknown column 'createdAt' in 'field list'
+Error
+    at Query.run (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/mysql/query.js:52:25)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MySQLQueryInterface.select (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-interface.js:407:12)
+    at async User.findAll (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1140:21)
+    at async User.findOne (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1240:12)
+    at async exports.newLog (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/logController.js:7:16)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Unknown column 'createdAt' in 'field list'
+Error
+    at Query.run (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/mysql/query.js:52:25)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MySQLQueryInterface.select (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-interface.js:407:12)
+    at async User.findAll (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1140:21)
+    at async User.findOne (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1240:12)
+    at async exports.newLog (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/logController.js:7:16)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Unknown column 'createdAt' in 'field list'
+Error
+    at Query.run (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/mysql/query.js:52:25)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MySQLQueryInterface.select (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-interface.js:407:12)
+    at async User.findAll (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1140:21)
+    at async User.findOne (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1240:12)
+    at async exports.newLog (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/logController.js:7:16)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Unknown column 'timestamps' in 'field list'
+Error
+    at Query.run (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/mysql/query.js:52:25)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MySQLQueryInterface.select (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-interface.js:407:12)
+    at async User.findAll (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1140:21)
+    at async User.findOne (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1240:12)
+    at async exports.newLog (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/logController.js:7:16)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Unknown column 'User.id' in 'where clause'
+Error
+    at Query.run (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/mysql/query.js:52:25)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MySQLQueryInterface.select (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-interface.js:407:12)
+    at async User.findAll (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1140:21)
+    at async User.findOne (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1240:12)
+    at async exports.newLog (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/logController.js:7:16)
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: id is not defined
+ReferenceError: id is not defined
+    at exports.newLog (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/logController.js:11:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Unknown column 'updatedAt' in 'field list'
+Error
+    at Query.run (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/mysql/query.js:52:25)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MySQLQueryInterface.insert (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-interface.js:308:21)
+    at async model.save (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:2490:35)
+    at async Log.create (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1362:12)
+    at async exports.newLog (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/logController.js:10:18)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Cannot read properties of undefined (reading 'update')
+TypeError: Cannot read properties of undefined (reading 'update')
+    at exports.setting (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/settingsController.js:7:17)
+    at newFn (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express-async-errors/index.js:16:20)
+    at Layer.handle [as handle_request] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/route.js:114:3)
+    at newFn (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express-async-errors/index.js:16:20)
+    at Layer.handle [as handle_request] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:280:10)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Cannot read properties of undefined (reading 'update')
+TypeError: Cannot read properties of undefined (reading 'update')
+    at exports.setting (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/settingsController.js:7:17)
+    at newFn (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express-async-errors/index.js:16:20)
+    at Layer.handle [as handle_request] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/route.js:114:3)
+    at newFn (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express-async-errors/index.js:16:20)
+    at Layer.handle [as handle_request] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:280:10)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Cannot read properties of undefined (reading 'update')
+TypeError: Cannot read properties of undefined (reading 'update')
+    at exports.setting (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/settingsController.js:7:17)
+    at newFn (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express-async-errors/index.js:16:20)
+    at Layer.handle [as handle_request] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/route.js:114:3)
+    at newFn (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express-async-errors/index.js:16:20)
+    at Layer.handle [as handle_request] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:280:10)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Expected plain object, array or sequelize method in the options.where parameter
+AssertionError [ERR_ASSERTION]: Expected plain object, array or sequelize method in the options.where parameter
+    at Setting._optionsMustContainWhere (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:2131:5)
+    at Setting.update (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1896:10)
+    at exports.setting (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/settingsController.js:7:17)
+    at newFn (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express-async-errors/index.js:16:20)
+    at Layer.handle [as handle_request] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/route.js:114:3)
+    at newFn (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express-async-errors/index.js:16:20)
+    at Layer.handle [as handle_request] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:284:15
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Setting.updateOne is not a function
+TypeError: Setting.updateOne is not a function
+    at exports.setting (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/settingsController.js:7:17)
+    at newFn (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express-async-errors/index.js:16:20)
+    at Layer.handle [as handle_request] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/route.js:114:3)
+    at newFn (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express-async-errors/index.js:16:20)
+    at Layer.handle [as handle_request] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:280:10)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Missing where attribute in the options parameter
+AssertionError [ERR_ASSERTION]: Missing where attribute in the options parameter
+    at Setting._optionsMustContainWhere (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:2130:5)
+    at Setting.update (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1896:10)
+    at exports.setting (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/settingsController.js:7:17)
+    at newFn (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express-async-errors/index.js:16:20)
+    at Layer.handle [as handle_request] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/route.js:114:3)
+    at newFn (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express-async-errors/index.js:16:20)
+    at Layer.handle [as handle_request] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:284:15
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Joi is not defined
+ReferenceError: Joi is not defined
+    at validateRegistrationRequest (/Users/yohaiwiener/coding-docs/Water-Counter/backend/models/userModel.js:54:18)
+    at exports.registerUser (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:11:21)
+    at newFn (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express-async-errors/index.js:16:20)
+    at Layer.handle [as handle_request] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/route.js:114:3)
+    at newFn (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express-async-errors/index.js:16:20)
+    at Layer.handle [as handle_request] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/index.js:346:12)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Field 'email' doesn't have a default value
+Error
+    at Query.run (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/mysql/query.js:52:25)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MySQLQueryInterface.insert (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-interface.js:308:21)
+    at async model.save (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:2490:35)
+    at async User.create (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1362:12)
+    at async /Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:30:18
+    at async /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/sequelize.js:507:18
+    at async exports.registerUser (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:29:19)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: jwt is not defined
+ReferenceError: jwt is not defined
+    at User.generateAuthToken (/Users/yohaiwiener/coding-docs/Water-Counter/backend/models/userModel.js:32:17)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:32:24
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/sequelize.js:507:18
+    at async exports.registerUser (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:29:19)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: jwt is not defined
+ReferenceError: jwt is not defined
+    at User.generateAuthToken (/Users/yohaiwiener/coding-docs/Water-Counter/backend/models/userModel.js:32:17)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:32:24
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/sequelize.js:507:18
+    at async exports.registerUser (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:29:19)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: jwt is not defined
+ReferenceError: jwt is not defined
+    at User.generateAuthToken (/Users/yohaiwiener/coding-docs/Water-Counter/backend/models/userModel.js:32:17)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:32:24
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/sequelize.js:507:18
+    at async exports.registerUser (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:29:19)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: jwt is not defined
+ReferenceError: jwt is not defined
+    at User.generateAuthToken (/Users/yohaiwiener/coding-docs/Water-Counter/backend/models/userModel.js:33:17)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:32:24
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/sequelize.js:507:18
+    at async exports.registerUser (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:29:19)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: jwt is not defined
+ReferenceError: jwt is not defined
+    at User.generateAuthToken (/Users/yohaiwiener/coding-docs/Water-Counter/backend/models/userModel.js:33:17)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:32:24
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/sequelize.js:507:18
+    at async exports.registerUser (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:29:19)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: defaultSettings is not defined
+ReferenceError: defaultSettings is not defined
+    at exports.registerUser (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:48:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: defaultSettings is not defined
+ReferenceError: defaultSettings is not defined
+    at exports.registerUser (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:50:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Cannot access 'defaultSettings' before initialization
+ReferenceError: Cannot access 'defaultSettings' before initialization
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:35:29
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/sequelize.js:507:18
+    at async exports.registerUser (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:31:19)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Cannot access 'defaultSettings' before initialization
+ReferenceError: Cannot access 'defaultSettings' before initialization
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:35:29
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/sequelize.js:507:18
+    at async exports.registerUser (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:31:19)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: secretOrPrivateKey must have a value
+Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/jsonwebtoken/sign.js:105:20)
+    at User.generateAuthToken (/Users/yohaiwiener/coding-docs/Water-Counter/backend/models/userModel.js:34:21)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:32:24
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/sequelize.js:507:18
+    at async exports.registerUser (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/userController.js:30:19)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: WHERE parameter "user_id" has invalid "undefined" value
+Error: WHERE parameter "user_id" has invalid "undefined" value
+    at MySQLQueryGenerator.whereItemQuery (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-generator.js:1743:13)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-generator.js:1734:25
+    at Array.forEach (<anonymous>)
+    at MySQLQueryGenerator.whereItemsQuery (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-generator.js:1732:35)
+    at MySQLQueryGenerator.whereQuery (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-generator.js:1714:24)
+    at MySQLQueryGenerator.updateQuery (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-generator.js:371:116)
+    at MySQLQueryInterface.bulkUpdate (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-interface.js:361:37)
+    at Setting.update (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:2010:54)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.updateSettings (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/settingsController.js:9:5)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: WHERE parameter "user_id" has invalid "undefined" value
+Error: WHERE parameter "user_id" has invalid "undefined" value
+    at MySQLQueryGenerator.whereItemQuery (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-generator.js:1743:13)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-generator.js:1734:25
+    at Array.forEach (<anonymous>)
+    at MySQLQueryGenerator.whereItemsQuery (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-generator.js:1732:35)
+    at MySQLQueryGenerator.whereQuery (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-generator.js:1714:24)
+    at MySQLQueryGenerator.updateQuery (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-generator.js:371:116)
+    at MySQLQueryInterface.bulkUpdate (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-interface.js:361:37)
+    at Setting.update (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:2010:54)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.updateSettings (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/settingsController.js:9:5)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Unknown column 'Setting.iat' in 'where clause'
+Error
+    at Query.run (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/mysql/query.js:52:25)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MySQLQueryInterface.select (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-interface.js:407:12)
+    at async Setting.findAll (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1140:21)
+    at async Setting.findOne (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1240:12)
+    at async exports.updateSettings (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/settingsController.js:7:19)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Unknown column 'Setting.iat' in 'where clause'
+Error
+    at Query.run (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/mysql/query.js:52:25)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MySQLQueryInterface.select (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-interface.js:407:12)
+    at async Setting.findAll (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1140:21)
+    at async Setting.findOne (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1240:12)
+    at async exports.updateSettings (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/settingsController.js:7:19)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Unknown column 'Setting.iat' in 'where clause'
+Error
+    at Query.run (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/mysql/query.js:52:25)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MySQLQueryInterface.select (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-interface.js:407:12)
+    at async Setting.findAll (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1140:21)
+    at async Setting.findOne (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1240:12)
+    at async exports.updateSettings (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/settingsController.js:9:19)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Invalid status code: 1683755698
+RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 1683755698
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:344:11)
+    at ServerResponse._implicitHeader (node:_http_server:335:8)
+    at ServerResponse.end (node:_http_outgoing:1032:10)
+    at ServerResponse.send (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/response.js:232:10)
+    at exports.updateSettings (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/settingsController.js:7:7)
+    at newFn (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express-async-errors/index.js:16:20)
+    at Layer.handle [as handle_request] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/route.js:144:13)
+    at module.exports (/Users/yohaiwiener/coding-docs/Water-Counter/backend/middleware/auth.js:10:5)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Unknown column 'Setting.iat' in 'where clause'
+Error
+    at Query.run (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/mysql/query.js:52:25)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MySQLQueryInterface.select (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-interface.js:407:12)
+    at async Setting.findAll (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1140:21)
+    at async Setting.findOne (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1240:12)
+    at async exports.updateSettings (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/settingsController.js:9:19)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Unknown column 'Setting.iat' in 'where clause'
+Error
+    at Query.run (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/mysql/query.js:52:25)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MySQLQueryInterface.select (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-interface.js:407:12)
+    at async Setting.findAll (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1140:21)
+    at async Setting.findOne (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1240:12)
+    at async exports.updateSettings (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/settingsController.js:9:19)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Invalid status code: 23
+RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 23
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:344:11)
+    at ServerResponse._implicitHeader (node:_http_server:335:8)
+    at ServerResponse.end (node:_http_outgoing:1032:10)
+    at ServerResponse.send (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/response.js:232:10)
+    at exports.updateSettings (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/settingsController.js:7:7)
+    at newFn (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express-async-errors/index.js:16:20)
+    at Layer.handle [as handle_request] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/route.js:144:13)
+    at module.exports (/Users/yohaiwiener/coding-docs/Water-Counter/backend/middleware/auth.js:10:5)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: res.stauts is not a function
+TypeError: res.stauts is not a function
+    at exports.updateSettings (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/settingsController.js:7:7)
+    at newFn (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express-async-errors/index.js:16:20)
+    at Layer.handle [as handle_request] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/route.js:144:13)
+    at module.exports (/Users/yohaiwiener/coding-docs/Water-Counter/backend/middleware/auth.js:10:5)
+    at newFn (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express-async-errors/index.js:16:20)
+    at Layer.handle [as handle_request] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/route.js:114:3)
+    at newFn (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express-async-errors/index.js:16:20)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Invalid status code: 23
+RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 23
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:344:11)
+    at ServerResponse._implicitHeader (node:_http_server:335:8)
+    at ServerResponse.end (node:_http_outgoing:1032:10)
+    at ServerResponse.send (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/response.js:232:10)
+    at exports.updateSettings (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/settingsController.js:7:19)
+    at newFn (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express-async-errors/index.js:16:20)
+    at Layer.handle [as handle_request] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/route.js:144:13)
+    at module.exports (/Users/yohaiwiener/coding-docs/Water-Counter/backend/middleware/auth.js:10:5)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Invalid status code: { message: 'new log' }
+RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: { message: 'new log' }
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:344:11)
+    at ServerResponse._implicitHeader (node:_http_server:335:8)
+    at write_ (node:_http_outgoing:908:9)
+    at ServerResponse.end (node:_http_outgoing:1016:5)
+    at ServerResponse.send (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/response.js:232:10)
+    at ServerResponse.json (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/response.js:278:15)
+    at exports.newLog (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/logController.js:15:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Unexpected token 1 in JSON at position 0
+SyntaxError: Unexpected token 1 in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/body-parser/lib/types/json.js:160:10)
+    at parse (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/body-parser/lib/types/json.js:83:15)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+    at invokeCallback (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/raw-body/index.js:231:16)
+    at done (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/raw-body/index.js:220:7)
+    at IncomingMessage.onEnd (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/raw-body/index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+[31merror[39m: Unexpected token 6 in JSON at position 0
+SyntaxError: Unexpected token 6 in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/body-parser/lib/types/json.js:160:10)
+    at parse (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/body-parser/lib/types/json.js:83:15)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+    at invokeCallback (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/raw-body/index.js:231:16)
+    at done (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/raw-body/index.js:220:7)
+    at IncomingMessage.onEnd (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/raw-body/index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Unexpected token 1 in JSON at position 0
+SyntaxError: Unexpected token 1 in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/body-parser/lib/types/json.js:160:10)
+    at parse (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/body-parser/lib/types/json.js:83:15)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+    at invokeCallback (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/raw-body/index.js:231:16)
+    at done (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/raw-body/index.js:220:7)
+    at IncomingMessage.onEnd (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/raw-body/index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Unexpected token 1 in JSON at position 0
+SyntaxError: Unexpected token 1 in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/body-parser/lib/types/json.js:160:10)
+    at parse (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/body-parser/lib/types/json.js:83:15)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+    at invokeCallback (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/raw-body/index.js:231:16)
+    at done (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/raw-body/index.js:220:7)
+    at IncomingMessage.onEnd (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/raw-body/index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+[31merror[39m: Unexpected token 1 in JSON at position 0
+SyntaxError: Unexpected token 1 in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/body-parser/lib/types/json.js:160:10)
+    at parse (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/body-parser/lib/types/json.js:83:15)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+    at invokeCallback (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/raw-body/index.js:231:16)
+    at done (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/raw-body/index.js:220:7)
+    at IncomingMessage.onEnd (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/raw-body/index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+[31merror[39m: notNull Violation: Log.amount cannot be null
+SequelizeValidationError: notNull Violation: Log.amount cannot be null
+    at InstanceValidator._validate (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/instance-validator.js:50:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async InstanceValidator._validateAndRunHooks (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/instance-validator.js:60:7)
+    at async InstanceValidator.validate (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/instance-validator.js:54:12)
+    at async model.save (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:2426:7)
+    at async Log.create (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1362:12)
+    at async exports.newLog (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/logController.js:12:18)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Unknown column 'Log.createAt' in 'where clause'
+Error
+    at Query.run (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/mysql/query.js:52:25)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MySQLQueryInterface.select (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-interface.js:407:12)
+    at async Log.findAll (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1140:21)
+    at async exports.getDailyAmount (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/logController.js:98:23)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Unknown column 'America' in 'field list'
+Error
+    at Query.run (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/mysql/query.js:52:25)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MySQLQueryInterface.select (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-interface.js:407:12)
+    at async Log.findAll (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1140:21)
+    at async exports.getDailyAmount (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/logController.js:95:23)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Incorrect parameter count in the call to native function 'DATE_FORMAT'
+Error
+    at Query.run (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/mysql/query.js:52:25)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MySQLQueryInterface.select (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-interface.js:407:12)
+    at async Log.findAll (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1140:21)
+    at async exports.getDailyAmount (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/logController.js:95:23)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: In aggregated query without GROUP BY, expression #1 of SELECT list contains nonaggregated column 'hydrationtracker.Log.createdAt'; this is incompatible with sql_mode=only_full_group_by
+Error
+    at Query.run (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/mysql/query.js:52:25)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MySQLQueryInterface.select (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-interface.js:407:12)
+    at async Log.findAll (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1140:21)
+    at async exports.getDailyAmount (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/logController.js:98:23)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: log.date.toISOString is not a function
+TypeError: log.date.toISOString is not a function
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/logController.js:80:27
+    at Array.forEach (<anonymous>)
+    at exports.getWeeklyStats (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/logController.js:79:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Incorrect integer value: 'NaN' for column 'amount' at row 1
+Error
+    at Query.run (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/mysql/query.js:52:25)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MySQLQueryInterface.insert (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-interface.js:308:21)
+    at async model.save (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:2490:35)
+    at async Log.create (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1362:12)
+    at async exports.newLog (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/logController.js:12:3)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Cannot access 'startDate' before initialization
+ReferenceError: Cannot access 'startDate' before initialization
+    at exports.getWeeklyStats (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/logController.js:26:3)
+    at newFn (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express-async-errors/index.js:16:20)
+    at Layer.handle [as handle_request] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/route.js:144:13)
+    at module.exports (/Users/yohaiwiener/coding-docs/Water-Counter/backend/middleware/extractTZ.js:8:3)
+    at newFn (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express-async-errors/index.js:16:20)
+    at Layer.handle [as handle_request] (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express/lib/router/route.js:144:13)
+    at module.exports (/Users/yohaiwiener/coding-docs/Water-Counter/backend/middleware/auth.js:10:5)
+    at newFn (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/express-async-errors/index.js:16:20)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[31merror[39m: Incorrect parameter count in the call to native function 'DATE_FORMAT'
+Error
+    at Query.run (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/mysql/query.js:52:25)
+    at /Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async MySQLQueryInterface.select (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/dialects/abstract/query-interface.js:407:12)
+    at async Log.findAll (/Users/yohaiwiener/coding-docs/Water-Counter/backend/node_modules/sequelize/lib/model.js:1140:21)
+    at async exports.getWeeklyStats (/Users/yohaiwiener/coding-docs/Water-Counter/backend/controllers/logController.js:39:16)
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined
+[32minfo[39m: Hydration Tracker API listening at http://localhost:3000
+undefined
+[32minfo[39m: Connection has been established successfully.
+undefined

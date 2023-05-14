@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="/src/styles/dist/output.css" />
+  <script type="module" src="./scripts/registerAndLogin.js" defer></script>
+  <title>Login and Register</title>
+  <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap" rel="stylesheet" />
+</head>
+
+<body class="h-small-screen touch-manipulation bg-gradient-to-b from-blue-200 to-blue-500 font-all">
+  <section class="flex h-small-screen items-center justify-center">
+    <div
+      class="flex h-[42rem] w-[30rem] flex-col gap-4 rounded-3xl bg-gradient-to-b from-blue-500 to-blue-200 text-center text-white drop-shadow-xl">
+      <!------------------------------------------------------------------------>
+      <!--------------------------------- LOGIN -------------------------------->
+      <!------------------------------------------------------------------------>
+      <h1 class="mt-8 text-4xl">Login</h1>
+      <div class="flex flex-col items-center gap-4">
+        <form class="grid grid-cols-[23rem] grid-rows-[repeat(2,_2rem_2rem)] text-lg text-black">
+          <input type="text" placeholder="email" class="login_email_input rounded-xl border-red-500 pl-3" />
+          <span class="login_email_error_span m-0 p-0 pl-2 text-start text-base text-red-500"></span>
+          <input type="password" placeholder="password" class="login_password_input rounded-xl border-red-500 pl-3" />
+          <span class="login_password_error_span m-0 p-0 pl-2 text-start text-base text-red-500"></span>
+        </form>
+        <button class="login_btn rounded-xl bg-gradient-to-b from-blue-200 to-blue-500 px-2 py-1 text-2xl font-thin">
+          Login
+        </button>
+      </div>
+      <!------------------------------------------------------------------------>
+      <!------------------------------- REGISTER ------------------------------->
+      <!------------------------------------------------------------------------>
+      <h1 class="mt-8 text-4xl">Register</h1>
+      <div class="flex flex-col items-center gap-4">
+        <form class="mx-2 grid grid-cols-[23rem] grid-rows-[repeat(3,_2rem_2rem)] text-lg text-black">
+          <input type="email" placeholder="email" class="register_email_input rounded-xl border-red-500 pl-3" />
+          <span class="register_email_error_span m-0 p-0 pl-2 text-start text-base text-red-500"></span>
+          <input type="text" placeholder="username" class="register_username_input rounded-xl border-red-500 pl-3" />
+          <span class="register_username_error_span m-0 p-0 pl-2 text-start text-base text-red-500"></span>
+          <input type="password" placeholder="password"
+            class="register_passowrd_input rounded-xl border-red-500 pl-3" />
+          <span class="register_password_error_span m-0 p-0 pl-2 text-start text-base text-red-500"></span>
+        </form>
+        <button class="register_btn rounded-xl bg-gradient-to-b from-blue-200 to-blue-500 px-2 py-1 text-2xl font-thin">
+          Register
+        </button>
+      </div>
+    </div>
+  </section>
+</body>
+
+</html>
